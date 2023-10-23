@@ -1,0 +1,150 @@
+[
+    {
+        "question": "Me llamo Jess.",
+        "answer": "Ah, te llamas Jess. \u00a1Mucho gusto!  \u00bfC\u00f3mo te va?"
+    },
+    {
+        "question": "Te llamo Jess.",
+        "answer": "Ah, tu nombre es Jess. \u00a1Encantado de conocerte!  \u00bfC\u00f3mo te va?"
+    },
+    {
+        "question": "Llamo Jess.",
+        "answer": "Ah, eres Jess. \u00a1Un placer conocerte!  \u00bfC\u00f3mo te va?"
+    },
+    {
+        "question": "Me llamas Jess.",
+        "answer": "Ah, te llamas Jess. \u00a1Es un placer!  \u00bfC\u00f3mo te va?"
+    },
+    {
+        "question": "Me soy Jess.",
+        "answer": "Ah, \u00bfas\u00ed que eres Jess? \u00a1Encantado!  \u00bfC\u00f3mo te va?"
+    },
+    {
+        "question": "Me me llamo Jess.",
+        "answer": "Ah, te llamas Mike. \u00a1Mucho gusto! \u00bfC\u00f3mo te va?"
+    },
+    {
+        "question": "Bien, gracias. \u00bfY a ti?",
+        "answer": "Muy bien. Vivo en la Ciudad de M\u00e9xico. \u00bfDe d\u00f3nde eres t\u00fa?"
+    },
+    {
+        "question": "Bien, gracias. \u00bfY en ti?",
+        "answer": "Estoy genial. Soy de la Ciudad de M\u00e9xico. \u00bfDe d\u00f3nde eres t\u00fa?"
+    },
+    {
+        "question": "Bien, gracias. \u00bfY ti?",
+        "answer": "Me encuentro muy bien. Vengo de la Ciudad de M\u00e9xico. \u00bfY t\u00fa, de d\u00f3nde eres?"
+    },
+    {
+        "question": "Bien, gracias. \u00bfY a t\u00fa?",
+        "answer": "Estoy excelente. Nac\u00ed en la Ciudad de M\u00e9xico. \u00bfT\u00fa de d\u00f3nde vienes?"
+    },
+    {
+        "question": "Bien gracias, \u00bfy a ti?",
+        "answer": "Todo va de maravilla. Mi ciudad es la Ciudad de M\u00e9xico. \u00bfCu\u00e1l es tu lugar de origen?"
+    },
+    {
+        "question": "\u00bfY a ti? Bien, gracias.",
+        "answer": "Me siento estupendo. La Ciudad de M\u00e9xico es mi hogar. \u00bfDe qu\u00e9 lugar eres?"
+    },
+    {
+        "question": "Soy de Pennsylvania.",
+        "answer": "Eres de Pennsylvania. Es un lugar hermoso."
+    },
+    {
+        "question": "Son de Pennsylvania.",
+        "answer": "Viene de Pennsylvania. Realmente es un sitio precioso."
+    },
+    {
+        "question": "Estoy de Pennsylvania.",
+        "answer": "T\u00fa eres originario de Pennsylvania. Es una regi\u00f3n bella."
+    },
+    {
+        "question": "question",
+        "answer": "answer"
+    },
+    {
+        "question": "Soy Pennsylvania.",
+        "answer": "Procedes de Pennsylvania. Es un sitio de gran belleza."
+    },
+    {
+        "question": "Soy de de Roma.",
+        "answer": "T\u00fa vienes de Roma. Realmente es un lugar encantador."
+    },
+    {
+        "question": "Soy del China.",
+        "answer": "Oh, eres de China. Es un lugar hermoso."
+    },
+    {
+        "question": "S\u00ed, quisiera un caf\u00e9, por favor.",
+        "answer": "Entiendo, un caf\u00e9. \u00bfTe gustar\u00eda llevarte dos con un 50% de descuento en el segundo?"
+    },
+    {
+        "question": "S\u00ed, quiso un caf\u00e9, por favor.",
+        "answer": "Comprendo, un caf\u00e9. \u00bfQuieres dos y el segundo a mitad de precio?"
+    },
+    {
+        "question": "S\u00ed, quisiera una caf\u00e9, por favor.",
+        "answer": "Entendido, un caf\u00e9. \u00bfTe interesa un segundo caf\u00e9 con 50% de descuento?"
+    },
+    {
+        "question": "S\u00ed, quisiera caf\u00e9, por favor.",
+        "answer": "Vale, un caf\u00e9. \u00bfC\u00f3mo ves si llevas otro caf\u00e9 con el 50% rebajado?"
+    },
+    {
+        "question": "S\u00ed, quisiera un por favor caf\u00e9.",
+        "answer": "Ok, un caf\u00e9. \u00bfTe gustar\u00eda otro caf\u00e9 con el segundo a la mitad de su precio?"
+    },
+    {
+        "question": "S\u00ed, quiero un caf\u00e9, por favor.",
+        "answer": "Captado, un caf\u00e9. \u00bfQuieres aprovechar una oferta del 50% de descuento en el segundo caf\u00e9?"
+    },
+    {
+        "question": "S\u00ed, quisiera dos caf\u00e9s, por favor.",
+        "answer": "Aqu\u00ed tienes tus dos caf\u00e9s. Tu total es de 2 pesos. \u00bfVas a usar tarjeta de cr\u00e9dito?"
+    },
+    {
+        "question": "S\u00ed, quiso dos caf\u00e9s, por favor.",
+        "answer": "Aqu\u00ed est\u00e1n tus dos caf\u00e9s. Son 2 pesos en total. \u00bfPagar\u00e1s con tarjeta?"
+    },
+    {
+        "question": "S\u00ed, quisiera dos caf\u00e9, por favor.",
+        "answer": "Te presento tus dos caf\u00e9s. Debes 2 pesos. \u00bfUsar\u00e1s cr\u00e9dito?"
+    },
+    {
+        "question": "S\u00ed quisiera dos caf\u00e9s por favor.",
+        "answer": "Tienes tus dos caf\u00e9s aqu\u00ed. El costo es de 2 pesos. \u00bfCon tarjeta?"
+    },
+    {
+        "question": "S\u00ed, quiero dos caf\u00e9s, por favor.",
+        "answer": "He aqu\u00ed tus dos caf\u00e9s. La cuenta es de 2 pesos. \u00bfDeseas usar tarjeta de cr\u00e9dito?"
+    },
+    {
+        "question": "S\u00ed, por favor quisiera dos caf\u00e9s.",
+        "answer": "Tus dos caf\u00e9s, aqu\u00ed los tienes. Ser\u00e1n 2 pesos. \u00bfVas a pagar con tarjeta?"
+    },
+    {
+        "question": "S\u00ed, aqu\u00ed tienes mi tarjeta de cr\u00e9dito.",
+        "answer": "Gracias. Hasta pronto."
+    },
+    {
+        "question": "S\u00ed, aqu\u00ed tiene mi tarjeta de cr\u00e9dito.",
+        "answer": "Gracias. Nos vemos."
+    },
+    {
+        "question": "S\u00ed, aqu\u00ed por tienes mi tarjeta de cr\u00e9dito.",
+        "answer": "Te agradezco. \u00a1Hasta la pr\u00f3xima!"
+    },
+    {
+        "question": "S\u00ed, aqu\u00ed tarjeta de cr\u00e9dito tienes mi.",
+        "answer": "Mil gracias. Hasta luego."
+    },
+    {
+        "question": "S\u00ed, aqu\u00ed tienes tarjeta de cr\u00e9dito.",
+        "answer": "Agradezco mucho. Hasta muy pronto."
+    },
+    {
+        "question": "S\u00ed, aqu\u00ed tienes tarjeta de cr\u00e9dito.",
+        "answer": "Te doy las gracias. \u00a1Nos vemos pronto!"
+    }
+]
